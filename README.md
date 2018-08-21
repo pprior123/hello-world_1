@@ -1,6 +1,6 @@
 ## Heading
 ### Secondary heading
 
-*First item
-*second item
-*third item
+* First item
+* second item
+* third item
